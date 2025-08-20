@@ -1,7 +1,7 @@
 // ubah aja sih wkwkw @skytech
 const CONFIG = {
     githubToken: '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',
-    repoOwner: 'GUSZWHANGSAF',
+    repoOwner: 'Database',
     repoName: 'website-database',
     filePath: 'allowed_tokens.json',
     apiTimeout: 10000 
@@ -316,3 +316,4 @@ const CONFIG = {
   }
   
   document.addEventListener('DOMContentLoaded', init);
+
